@@ -1,0 +1,7 @@
+{
+  "name": "quxat-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
